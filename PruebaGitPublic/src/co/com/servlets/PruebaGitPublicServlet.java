@@ -10,3 +10,9 @@ public class PruebaGitPublicServlet extends HttpServlet {
 		resp.getWriter().println("Hello, world");
 	}
 }
+
+//*******************************************************************
+
+public void PruebaJohan{
+
+}
